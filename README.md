@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common programming error: failing to handle empty lists and type errors in a function that calculates the average of a list of numbers. The `bug.py` file shows the erroneous code. The `bugSolution.py` file provides a corrected version with improved error handling and input validation.
